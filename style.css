@@ -65,3 +65,9 @@ figcaption{
     font-size: large;
     font-weight: 600;
 }
+h3, li {
+  text-align: center;
+}
+li {
+  list-style-type: none;
+}
