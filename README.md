@@ -1,5 +1,6 @@
 # PhanLoaiAnhHoa_MutiTasking
 Image Classification with MutiTasking: Rose, Tulip, Daisy, Sunflower, Lotus.
+My Link: https://tranhuyhoang2001.github.io/PhanLoaiAnhHoa_MutiTasking
 
 Input can be many pictures.
 
